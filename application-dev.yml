@@ -1,8 +1,4 @@
-# application-dev.yml
 
-spring:
-  application:
-  name: Config-Dev
   
 eureka:
   instance:
